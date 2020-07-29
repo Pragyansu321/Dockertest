@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'app works! Welcome to angular  sample dockerizeing application. I am very cool';
+  title = 'app works! Welcome to angular  sample dockerizeing application. I am very very  cool cool';
 }
